@@ -1,5 +1,5 @@
 # Windows-GetFileHash
-Small multithreaded application that gets the various hash values for a file created in C#.
+Small multithreaded C# application that gets the various hash values for a file.
 
 ### Supported hash functions
 - MD5
